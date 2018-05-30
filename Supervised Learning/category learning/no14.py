@@ -1,0 +1,1 @@
+#x_train,x_test,t_train,y_test=train_test_split(data[column_names])
